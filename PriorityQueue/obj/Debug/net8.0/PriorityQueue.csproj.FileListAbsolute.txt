@@ -12,3 +12,4 @@
 /Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/PriorityQueue.pdb
 /Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/PriorityQueue.genruntimeconfig.cache
 /Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/ref/PriorityQueue.dll
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/PriorityQueue.sourcelink.json
