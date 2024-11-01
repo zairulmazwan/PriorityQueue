@@ -1,0 +1,14 @@
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/bin/Debug/net8.0/PriorityQueue
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/bin/Debug/net8.0/PriorityQueue.deps.json
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/bin/Debug/net8.0/PriorityQueue.runtimeconfig.json
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/bin/Debug/net8.0/PriorityQueue.dll
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/bin/Debug/net8.0/PriorityQueue.pdb
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/PriorityQueue.AssemblyInfoInputs.cache
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/PriorityQueue.AssemblyInfo.cs
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/PriorityQueue.csproj.CoreCompileInputs.cache
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/PriorityQueue.dll
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/refint/PriorityQueue.dll
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/PriorityQueue.pdb
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/PriorityQueue.genruntimeconfig.cache
+/Users/zairulmazwan/Dotnet/PriorityQueue/PriorityQueue/obj/Debug/net8.0/ref/PriorityQueue.dll
